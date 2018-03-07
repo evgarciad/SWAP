@@ -1,4 +1,4 @@
-#Guión Práctica 1
+# Guión Práctica 1
 
 ## Preparación inicial
 
