@@ -2,5 +2,4 @@
 
 ## Servidores Web de Altas Prestaciones
 ## Curso 2017/2018
-Evelyn García Dionisio
-Javier Martín Gómez
+Evelyn García Dionisio y Javier Martín Gómez
